@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Blitzmachine aka Viktor and I am a (mostly) self-taught Junior Software Developer. <br>I haven't found my sweet spot yet which makes me constantly try out everything I can find.<br><br>Native Desktop App Development<br>Native Android & iOS App Development<br>Cross-Platform App Development<br>A little bit of web.
+I am Blitzmachine aka Viktor and I am a (mostly) self-taught Software Developer. <br>I haven't found my sweet spot yet which makes me constantly try out everything I can find.<br><br>Native Desktop App Development<br>Native Android & iOS App Development<br>Cross-Platform App Development<br>A little bit of web.
 
 
 # 💻 Tech Stack:
